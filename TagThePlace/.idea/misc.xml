@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3261538461538461" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/layout/activity_main.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/layout/alert_add_marker_layout.xml" value="0.5" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/layout/alert_eveluation_layout.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/menu/alert_add_marker_layout.xml" value="0.1" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/menu/alert_eveluation_layout.xml" value="0.1" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/menu/search_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ysjun/Documents/AndroidStudioProjects/TagThePlace/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
